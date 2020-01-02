@@ -1,3 +1,4 @@
+
 <?php
 /**
  * The template for displaying product content in the single-product.php template
@@ -49,7 +50,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 				 */
 				do_action( 'woocommerce_before_single_product_summary' );
 			?>
-		</div>
+		</div>	
 		<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 summry-details summary entry-summary">
 			<div class="summary entry-summary">
 				<?php
